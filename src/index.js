@@ -1,12 +1,27 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+//import App from './App';
+import ConstVarLet from './ConstVarLet';
+import TemplateString from './TemplateString';
+import Desestructuracion from './Desestructuracion';
+import Flecha from './Flecha';
+//import Callbacks from './Callbacks';
+import CallbackHell from './CallbackHell';
+import Promesas from './Promesas';
+import AsyncAwait from './AsyncAwait';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <ConstVarLet />
+    <TemplateString />
+    <Desestructuracion/>
+    <Flecha/>
+    {/* <Callbacks/> */}
+    <CallbackHell/>
+    <Promesas/>
+    <AsyncAwait/>
   </React.StrictMode>,
   document.getElementById('root')
 );
