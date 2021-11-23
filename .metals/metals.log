@@ -1,6 +1,0 @@
-[0m2021.11.21 11:52:37 INFO  Started: Metals version 0.10.9 in workspace '/home/marialejandra/InitG/Ejercicios InitGrammers/ejercicios-javascript' for client Visual Studio Code 1.62.2.[0m
-[0m2021.11.21 11:52:40 INFO  time: initialize in 3.37s[0m
-[0m2021.11.21 11:52:41 WARN  Build server is not auto-connectable.[0m
-[0m2021.11.21 11:52:41 WARN  no build tool detected in workspace '/home/marialejandra/InitG/Ejercicios InitGrammers/ejercicios-javascript'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
-Nov 21, 2021 12:38:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
-INFO: Unsupported notification method: $/setTrace
