@@ -1,0 +1,11 @@
+{
+  "name": "basico-javascript",
+  "version": "1.0.0",
+  "description": "ejercicios basicos de javascript",
+  "main": "AsyncAwait.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marialejandra Contreras",
+  "license": "MIT"
+}
